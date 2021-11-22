@@ -2,6 +2,7 @@
     "name": "ugurkorkmaz/zelty",
     "description": "Zelty Api",
     "type": "library",
+    "license": "MIT",
     "require": {
         "symfony/http-client": "^5.3",
         "symfony/validator": "^5.3"
@@ -16,5 +17,6 @@
             "name": "Uğur Korkmaz",
             "email": "korkmaz.uu@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
