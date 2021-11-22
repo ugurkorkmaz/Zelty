@@ -1,0 +1,20 @@
+{
+    "name": "ugurkorkmaz/zelty",
+    "description": "Zelty Api",
+    "type": "library",
+    "require": {
+        "symfony/http-client": "^5.3",
+        "symfony/validator": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "UgurKorkmaz\\Zelty\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Uğur Korkmaz",
+            "email": "korkmaz.uu@gmail.com"
+        }
+    ]
+}
