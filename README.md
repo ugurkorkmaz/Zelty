@@ -10,7 +10,7 @@ A full php package wrapping the Zelty api
 ```bash
   composer req ugurkorkmaz/zelty
 ```
-
+ 
   
 ## Rozetler
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ugurkorkmaz/Zelty)
